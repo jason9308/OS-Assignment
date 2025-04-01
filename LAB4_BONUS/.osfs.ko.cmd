@@ -1,0 +1,1 @@
+savedcmd_/home/jason9308/lab4_bonus/osfs.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/jason9308/lab4_bonus/osfs.ko /home/jason9308/lab4_bonus/osfs.o /home/jason9308/lab4_bonus/osfs.mod.o
