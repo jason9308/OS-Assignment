@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"syscall.h": "c",
+			"cstdlib": "c"
+		}
+	}
+}
